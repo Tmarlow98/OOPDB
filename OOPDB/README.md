@@ -24,6 +24,7 @@ At first use, click the create account button, and fill in the text boxes with t
 Once your account is created, log in, and either set your schedule by clicking the Driver Schedule button, 
 or request a ride with the Request Ride button. Over time, friends can be added,
 allowing for greater consistency of scheduling through the app.
+These skills demonstrate sql commands. We use update, delete, insert, ect.
 
 ## Built With
 
@@ -32,12 +33,7 @@ allowing for greater consistency of scheduling through the app.
 * [Apache Derby](https://db.apache.org/derby/) -Database
 
 ## Credits:
-
-* [Zachary Greening](https://github.com/zgreening) -Lead Developer
 * [Tyler Marlow](https://github.com/Tmarlow98) -Database Programmer
-* [Gage Kettering](https://github.com/CluckHeads) -Back End Code Developer
-* [Charles Taylor](https://github.com/ChuckT95) -Back End Code Developer
-* [Brandon Davis](https://github.com/btdavis3378) -Back End Code Developer
 
 ## License:
 
